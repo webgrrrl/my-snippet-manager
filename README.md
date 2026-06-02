@@ -78,8 +78,6 @@ code --install-extension my-snippet-manager-1.0.0.vsix
 4. **Enter a name** for your snippet when prompted
 5. **Done!** Your snippet is now saved
 
-![Save Snippet Demo](https://via.placeholder.com/800x200?text=Save+Snippet+Demonstration)
-
 ### Using Saved Snippets
 
 1. **Open the Explorer sidebar** (first icon on the left)
