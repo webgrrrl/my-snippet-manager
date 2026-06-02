@@ -1,4 +1,4 @@
-# Snippet Manager for VS Code
+# MY SNIPPET MANAGER: A Personal Snippet Manager for VS Code
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/webgrrrl/my-snippet-manager)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.85.0+-blue.svg)](https://code.visualstudio.com/)
