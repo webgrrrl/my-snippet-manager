@@ -14,8 +14,6 @@ A powerful and simple snippet manager for VS Code that lets you save, organise, 
 🎯 **Zero configuration** - Works out of the box with any file type  
 ⚡ **Status bar integration** - Quick access button to save snippets  
 
-![Snippet Manager Demo](https://via.placeholder.com/800x400?text=Snippet+Manager+Screenshot)
-
 ## How to Install
 
 ### Method 1: Install from VSIX File (Recommended)
