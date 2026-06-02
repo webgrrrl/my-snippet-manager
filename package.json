@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "my-snippet-manager.helloWorld",
-        "title": "Hello World"
+        "command": "my-snippet-manager.saveSnippet",
+        "title": "Save Selection as Snippet"
       }
     ]
   },
