@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/webgrrrl/my-snippet-manager)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.85.0+-blue.svg)](https://code.visualstudio.com/)
 
-A powerful and simple snippet manager for VS Code that lets you save, organize, and reuse code snippets across any programming language. Save your frequently used code blocks and insert them with a single click!
+A powerful and simple snippet manager for VS Code that lets you save, organise, and reuse code snippets across any programming language. Save your frequently used code blocks and insert them with a single click!
 
 ## Features
 
