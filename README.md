@@ -12,7 +12,9 @@ A powerful and simple snippet manager for VS Code that lets you save, organise, 
 🗑️ **Easy management** - Delete snippets you no longer need  
 💾 **Persistent storage** - Your snippets are saved and synced across VS Code sessions  
 🎯 **Zero configuration** - Works out of the box with any file type  
-⚡ **Status bar integration** - Quick access button to save snippets  
+⚡ **Status bar integration** - Quick access button to save snippets
+
+![My Snippet Manager screenshot](media/demo-image-v1.0.0.png)
 
 ## How to Install
 
