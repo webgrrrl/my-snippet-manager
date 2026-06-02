@@ -1,16 +1,27 @@
 {
   "name": "my-snippet-manager",
   "displayName": "Snippet Manager",
-  "description": "Manage code snippets",
-  "version": "0.0.1",
+  "description": "Save, organize, and reuse code snippets across any programming language",
+  "version": "1.0.0",
+  "publisher": "webgrrrl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webgrrrl/my-snippet-manager"
+  },
+  "homepage": "https://github.com/webgrrrl/my-snippet-manager/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/webgrrrl/my-snippet-manager/issues"
+  },
+  "icon": "media/icon.png",
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Other"
-  ],
-  "activationEvents": [
-    "onView:snippetsTreeView"
   ],
   "main": "./dist/extension.js",
   "contributes": {
@@ -51,7 +62,8 @@
   },
   "scripts": {
     "compile": "tsc -p ./",
-    "watch": "tsc -watch -p ./"
+    "watch": "tsc -watch -p ./",
+    "package": "vsce package"
   },
   "devDependencies": {
     "@types/vscode": "^1.85.0",
