@@ -9,7 +9,9 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "*"
+  ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
@@ -17,7 +19,24 @@
         "command": "my-snippet-manager.saveSnippet",
         "title": "Save Selection as Snippet"
       }
-    ]
+    ],
+    "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "snippet-sidebar",
+          "title": "Snippet Manager",
+          "icon": "media/icon.svg"
+        }
+      ]
+    },
+    "views": {
+      "snippet-sidebar": [
+        {
+          "id": "snippet-view",
+          "name": "Saved Snippets"
+        }
+      ]
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run package",
