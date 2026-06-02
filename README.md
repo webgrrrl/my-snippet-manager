@@ -76,7 +76,7 @@ code --install-extension my-snippet-manager-1.0.0.vsix
 1. **Open any code file** in VS Code
 2. **Select the code** you want to save
 3. **Click the "Save Snippet" button** in the bottom-right status bar
-   - Or press `Ctrl+Shift+P` and type "Save Selection as Snippet"
+   - Or press `Ctrl+Shift+P` to open *Command Palette* and type "Save Selection as Snippet"
 4. **Enter a name** for your snippet when prompted
 5. **Done!** Your snippet is now saved
 
