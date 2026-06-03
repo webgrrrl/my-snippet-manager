@@ -192,7 +192,7 @@ my-snippet-manager/
 - If not, try reloading VS Code (`Ctrl+Shift+P` → "Developer: Reload Window")
 - Check that the extension is enabled in Extensions view
 
-### Can't save snippets
+### Can't save snippetsgit
 - Ensure you have text selected in an editor
 - Check that VS Code has write permissions to its storage
 - Try restarting VS Code

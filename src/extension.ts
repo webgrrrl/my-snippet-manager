@@ -38,7 +38,7 @@ class SnippetsTreeDataProvider implements vscode.TreeDataProvider<SnippetTreeIte
 
 		if (this.snippets.length === 0) {
 			const emptyItem = new SnippetTreeItem(
-				"No snippets yet. Select code and click 'Save Selection as Snippet'",
+				"No snippets yet. Select code and click 'Save Snippet'",
 				vscode.TreeItemCollapsibleState.None
 			);
 			emptyItem.contextValue = 'empty';
