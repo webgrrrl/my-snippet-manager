@@ -1,6 +1,6 @@
 # My Snippet Manager: A Personal Snippet Manager for VS Code
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/webgrrrl/my-snippet-manager)
+[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/webgrrrl/my-snippet-manager)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.85.0+-blue.svg)](https://code.visualstudio.com/)
 
 A powerful and simple snippet manager for VS Code that lets you save, organise, and reuse code snippets across any programming language. Save your frequently used code blocks and insert them with a single click!
@@ -14,7 +14,7 @@ A powerful and simple snippet manager for VS Code that lets you save, organise, 
 🎯 **Zero configuration** - Works out of the box with any file type  
 ⚡ **Status bar integration** - Quick access button to save snippets
 
-![My Snippet Manager screenshot](media/demo-image-v1.0.0.png)
+![My Snippet Manager screenshot](media/demo-image-v1.0.1.png)
 
 ## How to Install
 
@@ -23,12 +23,12 @@ A powerful and simple snippet manager for VS Code that lets you save, organise, 
 If you simply want to install and use this extension, follow this method.
 
 1. **Download the VSIX file**
-   - Get the `my-snippet-manager-1.0.0.vsix` file from the [Releases](https://github.com/yourusername/my-snippet-manager/releases) page
+   - Get the `my-snippet-manager-1.0.1.vsix` file from the [Releases](https://github.com/yourusername/my-snippet-manager/releases) page
    - Or build it yourself (see [Building from Source](#building-from-source))
 
 2a. **Install using Command Line**...
    ```bash
-   code --install-extension my-snippet-manager-1.0.0.vsix
+   code --install-extension my-snippet-manager-1.0.1.vsix
    ```
 
 2b. ... or **Install using VS Code UI**
@@ -68,7 +68,7 @@ npm install -g @vscode/vsce
 vsce package
 
 # Install the generated VSIX file
-code --install-extension my-snippet-manager-1.0.0.vsix
+code --install-extension my-snippet-manager-1.0.1.vsix
 ```
 
 ## Quick Start Guide

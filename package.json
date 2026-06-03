@@ -2,7 +2,7 @@
   "name": "my-snippet-manager",
   "displayName": "Snippet Manager",
   "description": "Save, organize, and reuse code snippets across any programming language",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "webgrrrl",
   "repository": {
     "type": "git",
