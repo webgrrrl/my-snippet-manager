@@ -23,7 +23,7 @@ A powerful and simple snippet manager for VS Code that lets you save, organise, 
 If you simply want to install and use this extension, follow this method.
 
 1. **Download the VSIX file**
-   - Get the `my-snippet-manager-1.0.1.vsix` file from the [Releases](https://github.com/yourusername/my-snippet-manager/releases) page
+   - Get the `my-snippet-manager-1.0.1.vsix` file from the [Releases](https://github.com/webgrrrl/my-snippet-manager/releases) page
    - Or build it yourself (see [Building from Source](#building-from-source))
 
 2a. **Install using Command Line**...
@@ -88,7 +88,7 @@ Once installed, your snippets are integrated directly into the VS Code **Explore
 1. **Open any code file** in VS Code
 2. **Select the code** you want to save
 3. **Click the "Save Snippet" button** in the bottom-right status bar
-   - Or press `Ctrl+Shift+P` to open *Command Palette* and type "Save Selection as Snippet"
+   - Or press `Ctrl+Shift+P` to open *Command Palette* and type "Save Snippet"
 4. **Enter a name** for your snippet when prompted
 5. **Done!** Your snippet is now saved
 
@@ -109,7 +109,7 @@ Once installed, your snippets are integrated directly into the VS Code **Explore
 
 | Command | Description | Keyboard Shortcut |
 |---------|-------------|-------------------|
-| `Save Selection as Snippet` | Save selected code as a reusable snippet | None (use status bar) |
+| `Save Snippet` | Save selected code as a reusable snippet | None (use status bar) |
 | `Delete Snippet` | Remove a saved snippet | Right-click on snippet |
 
 ## Configuration
