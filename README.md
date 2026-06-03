@@ -73,6 +73,16 @@ code --install-extension my-snippet-manager-1.0.1.vsix
 
 ## Quick Start Guide
 
+### Finding the Extension
+
+Once installed, your snippets are integrated directly into the VS Code **Explorer** sidebar.
+
+1. **Open the Explorer view**: Click the **Explorer icon** (the file folder icon at the very top of the Activity Bar) or press `Ctrl+Shift+E` (Windows/Linux) or `Cmd+Shift+E` (macOS).
+2. **Locate "MY SNIPPETS"**: Look for the **"MY SNIPPETS"** section in the sidebar. It will appear alongside your standard project folders.
+* *Note: If you don't see it immediately, ensure the section is not collapsed by clicking the chevron (`>`) next to the "MY SNIPPETS" header.*
+
+![My Snippet Manager appears when you select "Explorer" in the Activity Bar.](media/demo-image-v1.0.0.png)
+
 ### Saving Your First Snippet
 
 1. **Open any code file** in VS Code
